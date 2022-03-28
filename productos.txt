@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Escuadra",
+    "price": 20,
+    "thumbnail": "https://realplaza.vtexassets.com/arquivos/ids/19829632-800-auto?v=637784438719930000&width=800&height=auto&aspect=true",
+    "id": 1
+  },
+  {
+    "title": "Calculadora",
+    "price": 100,
+    "thumbnail": "https://realplaza.vtexassets.com/arquivos/ids/387363-800-auto?v=637297729282000000&width=800&height=auto&aspect=true",
+    "id": 2
+  },
+  {
+    "title": "cuaderno",
+    "price": 10,
+    "thumbnail": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/u/cuaderno-anillado-a-4-156h-6d-cuadriculado-solido-loro-29224-default-1.jpg",
+    "id": 3
+  }
+]
